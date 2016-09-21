@@ -1,0 +1,6 @@
+AUTHORS
+ChangeLog
+build/
+dist/
+mydashboard.egg-info/
+*.pyc
